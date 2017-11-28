@@ -1,4 +1,4 @@
-# performs code on each item in a list i.e. iteration
+# performs code on each item in a list i.e. iteration. loops are a construct which can iterate through a list.
 # uses a while loop and a counter variable
 
 words = ["milda", "petr", "karel", "pavel"]
